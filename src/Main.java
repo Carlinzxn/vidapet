@@ -4,7 +4,6 @@ public class Main {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        // Variáveis básicas do animal e da consulta (sem POO)
         String nomeAnimal = "";
         int especie = 0; // 1 - Cão | 2 - Gato
         int idadeAnimal = 0;
